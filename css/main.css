@@ -134,6 +134,16 @@ PAGE: PORTFOLIO
   color: #bdc3c7;
 }
 
+.portfolioImage{
+	border-radius: 25px;
+}
+
+.github{
+	margin:0;
+	padding: 5%;
+	color: #bdc3c7;
+}
+
 
 
 /***************************
